@@ -10,4 +10,4 @@
 
 :small_blue_diamond: Did a lot of consulting
 
-:small_blue_diamond: Ran one of the first Linkblog on the Internet, mostly focused on Java, for 7 years in the early 2000s
+:small_blue_diamond: Ran one of the first Linkblog on the Internet, mostly focused on Java, in the early 2000s
