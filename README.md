@@ -4,7 +4,7 @@
 
 :small_blue_diamond: Born and raised in France
 
-:small_blue_diamond: Moved to the US when offered a job at Apple in my late teens
+:small_blue_diamond: Moved to the US when offered a job at Apple in my early twenties
 
 :small_blue_diamond: Started and sold a few companies
 
