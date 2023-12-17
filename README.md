@@ -12,4 +12,6 @@
 
 :small_blue_diamond: Ran one of the first Linkblog on the Internet, mostly focused on Java
 
+:small_blue_diamond: Cancer survivor
+
 :small_blue_diamond: Time's Person of the Year in 2006
