@@ -1,4 +1,4 @@
-## The Truth is Out There! 👽
+## 真実はそこにある
 
 :small_blue_diamond: Close to 40 years of professional experience in hardware and software development
 
