@@ -1,4 +1,4 @@
-## こんにちは
+## ¡ǝɹǝɥʇ ʇno sᴉ ɥʇnɹʇ ǝɥʇ
 
 :small_blue_diamond: Close to 40 years of professional experience in hardware and software development
 
