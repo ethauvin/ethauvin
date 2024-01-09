@@ -1,4 +1,4 @@
-## 真実はそこにある
+##  La Vérité est Ailleurs 👽
 
 :small_blue_diamond: Close to 40 years of professional experience in hardware and software development
 
