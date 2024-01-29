@@ -10,7 +10,7 @@
 
 :small_blue_diamond: Did a lot of consulting
 
-:small_blue_diamond: Ran one of the first Linkblog on the Internet, mostly focused on Java
+:small_blue_diamond: Ran one of the first daily linkblog, mostly focused on Java
 
 :small_blue_diamond: Wrote a weekly column for the Java Developer's Journal
 
