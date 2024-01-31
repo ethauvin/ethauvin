@@ -1,4 +1,4 @@
-## 👽 ¡ǝɹǝɥʇ ʇno sᴉ ɥʇnɹʇ ǝɥʇ
+## The Truth is Out There! 👽
 
 :small_blue_diamond: Close to 40 years of professional experience in hardware and software development
 
