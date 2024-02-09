@@ -1,6 +1,6 @@
 ## The Truth is Out There! 👽
 
-:small_blue_diamond: Close to 40 years of professional experience in hardware and software development
+:small_blue_diamond: Been writting software for over 40 years
 
 :small_blue_diamond: Born and raised in France
 
